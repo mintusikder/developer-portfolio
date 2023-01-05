@@ -1,5 +1,6 @@
 *{
     margin: 0px;
+    padding: 0px;
     font-family: 'Open Sans', sans-serif;
 }
 .text-primary{
@@ -15,6 +16,7 @@
     border: 0;
     border-radius: 5px;
     color: white;
+    cursor: pointer;
 }
 .contact-button{
     font-weight: 700;
@@ -26,6 +28,7 @@
     color:#FD6E0A;
     margin-left: 30px;
     text-transform: capitalize;
+    cursor: pointer;
 }
 .background{
     background: #FFF8F3;
@@ -43,6 +46,7 @@ nav{
 .nav-title{
     font-weight: 800;
     font-size: 45px;
+    cursor: pointer;
 }
 nav li{
     list-style: none;
@@ -115,4 +119,9 @@ main{
     font-weight: 700;
     font-size: 20px;
     color: #474747;
+}
+/* what i do style */
+.what-i-do{
+    margin-top: 130px;
+    text-align: center;
 }
